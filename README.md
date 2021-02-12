@@ -5,7 +5,7 @@
 
 -->
 
-Thanks for checking my profile, I'm Currently working and learing on a new tecnology.
+Thanks for checking my profile, I'm Currently working and learning on a new tecnology.
 
 ## :muscle: Skills
 
