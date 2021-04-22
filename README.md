@@ -23,6 +23,9 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
  > - Mysql
  > - Postgres
  > - MongoDB
+ > - Sql Server
+ > - Oracle
+ > - Firebase
  
 ### Tools
 
