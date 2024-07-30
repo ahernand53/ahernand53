@@ -11,12 +11,10 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
 
 ### Coding
 
- > - PHP `laravel`
- > - Javascript `Vue.js`
  > - TypeScript `Angular, Nest.js`
  > - Node.js `Express`
- > - Java `Spring `
- > - C# `.NET Core`
+ > - C# `.NET ^3.0`
+ > - ASP.NET Framework
 
 ### Database
 
@@ -26,6 +24,7 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
  > - Sql Server
  > - Oracle
  > - Firebase
+ > - Redis
  
 ### Tools
 
@@ -33,3 +32,4 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
  > - Docker
  > - Github CLI
  > - Heroku
+ > - Azure DevOps
