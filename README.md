@@ -13,8 +13,14 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
 
   - TypeScript `Angular, Nest.js`
   - Node.js `Express`
-  - C# `.NET ^3.0`
+  - C# `NET Framework - NET core - NET 5+`
   - ASP.NET Framework
+
+### Knowledge
+  - Repository Pattern
+  - Clean Architecture
+  - Hexagonal Architecture
+  - Unit Of Work Pattern
 
 ### Database
 
