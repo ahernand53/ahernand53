@@ -11,25 +11,25 @@ Thanks for checking my profile, I'm Currently working and learning on a new tecn
 
 ### Coding
 
- > - TypeScript `Angular, Nest.js`
- > - Node.js `Express`
- > - C# `.NET ^3.0`
- > - ASP.NET Framework
+  - TypeScript `Angular, Nest.js`
+  - Node.js `Express`
+  - C# `.NET ^3.0`
+  - ASP.NET Framework
 
 ### Database
 
- > - Mysql
- > - Postgres
- > - MongoDB
- > - Sql Server
- > - Oracle
- > - Firebase
- > - Redis
+  - Mysql
+  - Postgres
+  - MongoDB
+  - Sql Server
+  - Oracle
+  - Firebase
+  - Redis
  
 ### Tools
 
- > - Firebase
- > - Docker
- > - Github CLI
- > - Heroku
- > - Azure DevOps
+  - Firebase
+  - Docker
+  - Github CLI
+  - Heroku
+  - Azure DevOps
